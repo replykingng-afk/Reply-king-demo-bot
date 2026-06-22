@@ -11,7 +11,7 @@
   /* ------------------------------------------------------------
      1. CONFIG — edit this one line with your real Apps Script URL
      ------------------------------------------------------------ */
-  var APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyZDwenYcOHTDQUcdMUHXdYQ2R0z7Vxh2tkFhOBargadfT3Pkw5SvnnYFrmLWAimnxnTA/exec";
+  var APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzs5zRCyyrY7nNe1ShEqeJa8MBJM_TqLoNmQ6j_w0KvBILMb-1FGsLdKGq4WoTOZfCl/exec";
 
   var BRAND = {
     green: "#25D366",
